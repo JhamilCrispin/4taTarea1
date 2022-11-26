@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198606164395",
+    "project_id": "tatarea-b4561",
+    "storage_bucket": "tatarea-b4561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198606164395:android:76172f88309f2de59042ee",
+        "android_client_info": {
+          "package_name": "com.example.a4tatarea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198606164395-td0ag4pevh3pgqubcte36itgve790tk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI3SpvvrgDMFHBD32_Rrg7BXjnTyde5Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198606164395-td0ag4pevh3pgqubcte36itgve790tk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
